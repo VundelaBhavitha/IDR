@@ -10,7 +10,7 @@ The Institute of Digital Risk (IDR) is a premier organization dedicated to advan
 
 - **Responsive Design**: Fully responsive homepage optimized for desktop, tablet, and mobile devices
 - **Professional Branding**: Minimalist geometric design with orange, black, and white color palette
-- **Multi-Section Layout**: 
+- **Multi-Section Layout** : 
   - Hero section with compelling value proposition
   - About section highlighting industry-academic partnerships
   - Service pillars (Academy, Innovation & Incubation, Advisory Services, Talent Deployment)
