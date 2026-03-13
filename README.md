@@ -1,170 +1,163 @@
-# Institute of Digital Risk
 
-Leading training and deployment institute for digital and AI risk practitioners.
 
-## Overview
+# Institute of Digital Risk (IDR)
 
-The Institute of Digital Risk (IDR) is a premier organization dedicated to advancing expertise in digital and AI risk management. This repository contains the official IDR homepage and brand assets, serving as the primary digital presence for the institute.
+A modern web platform for the **Institute of Digital Risk**, focused on training and developing professionals in digital and AI risk management.
 
-## Features
+🌐 **Live Demo:** [https://idr-rose.vercel.app](https://idr-rose.vercel.app)
 
-- **Responsive Design**: Fully responsive homepage optimized for desktop, tablet, and mobile devices
-- **Professional Branding**: Minimalist geometric design with orange, black, and white color palette
-- **Multi-Section Layout** : 
-  - Hero section with compelling value proposition
-  - About section highlighting industry-academic partnerships
-  - Service pillars (Academy, Innovation & Incubation, Advisory Services, Talent Deployment)
-  - Community focus showcasing target audience
-  - Contact form for inquiries
-  - Comprehensive footer with quick links
-- **Smooth Navigation**: Sticky navbar with smooth scroll navigation to all sections
-- **Accessibility**: Semantic HTML, ARIA attributes, and proper contrast ratios
-- **Performance**: Optimized vanilla CSS for fast load times
+---
 
-## Tech Stack
+# Overview
 
-- **Framework**: [Next.js 16](https://nextjs.org/) with App Router
-- **Styling**: Vanilla CSS modules (no CSS framework dependencies)
-- **JavaScript**: Pure ES6+ with no external UI libraries
-- **Deployment**: [Vercel](https://vercel.com/)
-- **Version Control**: Git + GitHub
+The **Institute of Digital Risk (IDR)** is dedicated to advancing expertise in digital and AI risk management.
 
-## Getting Started
+This repository contains the **official homepage website**, designed to showcase IDR’s mission, services, and community.
 
-### Prerequisites
-- Node.js 18+ installed
-- npm, yarn, or pnpm package manager
+The website provides a clean, responsive, and professional interface for users to explore programs, services, and contact the institute.
 
-### Installation
+---
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/outfitsuggester/v0-assign.git
-   cd v0-assign
-   ```
+# Features
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+* Responsive design for **desktop, tablet, and mobile**
+* Modern **minimalist UI**
+* Sticky navigation with smooth scrolling
+* Multiple structured sections:
 
-3. **Run the development server**
-   ```bash
-   npm run dev
-   ```
+  * Hero section
+  * About section
+  * Service pillars
+  * Community section
+  * Contact form
+  * Footer with quick links
+* Optimized performance and fast loading
+* Semantic HTML and accessible structure
 
-4. **Open in browser**
-   - Navigate to `http://localhost:3000`
-   - Changes will hot-reload automatically
+---
 
-### Available Scripts
+# Tech Stack
 
-```bash
-npm run dev      # Start development server with hot reload
-npm run build    # Create production-optimized build
-npm start        # Run production build locally
-npm run lint     # Run ESLint code quality checks
-```
+* **Framework:** Next.js
+* **Language:** JavaScript / TypeScript
+* **Styling:** CSS Modules
+* **Deployment:** Vercel
+* **Version Control:** Git + GitHub
 
-## Project Structure
+---
+
+# Project Structure
 
 ```
 .
 ├── app/
-│   ├── page.tsx           # Main homepage component
-│   ├── page.module.css    # Homepage styles
-│   ├── layout.tsx         # Root layout with metadata
-│   └── globals.css        # Global styles and reset
+│   ├── page.tsx
+│   ├── layout.tsx
+│   ├── globals.css
+│   └── page.module.css
+│
 ├── public/
-│   ├── logo-icon.jpg      # Icon-only logo variant
-│   ├── logo-full.jpg      # Full logo with text
-│   └── DESIGN_NOTES.md    # Design system documentation
-├── next.config.js         # Next.js configuration
-├── package.json           # Project dependencies
-└── README.md              # This file
+│   ├── logo-icon.jpg
+│   └── logo-full.jpg
+│
+├── next.config.js
+├── package.json
+└── README.md
 ```
-
-## Branding & Design
-
-### Logo
-The IDR logo features a minimalist isometric cube representing:
-- **Structure**: Stability and framework in digital risk management
-- **Resilience**: Multi-layered complexity and robustness
-- **Innovation**: Forward-thinking approach to AI and digital challenges
-
-### Color Palette
-- **Primary Orange**: `#ff6b35` - Energy and innovation
-- **Primary Black**: `#1a1a1a` - Professionalism and trust
-- **Primary White**: `#ffffff` - Clarity and transparency
-
-### Typography
-- **Headings & Body**: System font stack (-apple-system, BlinkMacSystemFont, Segoe UI)
-- **Line Height**: 1.6 for optimal readability
-
-## Deployment
-
-### Deploy to Vercel 
-
-The project is configured for automatic deployment to Vercel:
-
-1. **Via GitHub** (Automatic)
-   - Push changes to the `main` branch
-   - Vercel automatically builds and deploys
-   - View deployment status in GitHub checks
-
-### Environment
-- **Project ID**: `prj_UcS9BDnSgBGpnZllwZ8crJy7VGMu`
-- **Repository**: GitHub - `outfitsuggester/v0-assign`
-- **Base Branch**: `main`
-
-## Site Sections
-
-### Navigation
-- Sticky header that remains visible while scrolling
-- Smooth scroll animation to sections
-- Active section highlighting
-- Mobile-responsive hamburger menu
-
-### Contact Form
-- Email validation
-- Message textarea
-- Form submission handling
-- Success/error feedback
-
-### Service Pillars
-Four key offerings displayed as cards:
-1. **Academy** - Training and education programs
-2. **Innovation & Incubation** - Research and development
-3. **Advisory Services** - Expert consulting
-4. **Talent Deployment** - Professional placement
-
-## Browser Support
-
-- Chrome/Edge 90+
-- Firefox 88+
-- Safari 14+
-- Mobile browsers (iOS Safari 14+, Chrome Android)
-
-## Performance Metrics
-
-- **Lighthouse Score**: 95+ across all categories
-- **First Contentful Paint**: < 1 second
-- **Largest Contentful Paint**: < 1.5 seconds
-- **Cumulative Layout Shift**: < 0.1
-
-## Contributing
-
-For contributions, partnership inquiries, or feature requests, please contact us at `hello@digitalrisk.io`.
-
-## License
-
-© 2025 Institute of Digital Risk. All rights reserved.
-
-## Contact
-
-**Institute of Digital Risk**
-- Email: hello@digitalrisk.io
-- Website: [digitalrisk.io](https://digitalrisk.io)
 
 ---
 
+# Getting Started
+
+## Prerequisites
+
+Make sure you have installed:
+
+* Node.js (v18 or later)
+* npm / yarn / pnpm
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/VundelaBhavitha/IDR.git
+cd IDR
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open in browser:
+
+```
+http://localhost:3000
+```
+
+---
+
+# Available Scripts
+
+```bash
+npm run dev      # Run development server
+npm run build    # Create production build
+npm start        # Run production build locally
+npm run lint     # Run ESLint
+```
+
+---
+
+# Deployment
+
+The project is deployed using **Vercel**.
+
+### Deploy Steps
+
+1. Push code to GitHub
+2. Import the repository in Vercel
+3. Vercel automatically builds and deploys the project
+
+Every push to the **main branch** automatically triggers a new deployment.
+
+---
+
+# Design
+
+### Color Palette
+
+| Color          | Hex       |
+| -------------- | --------- |
+| Primary Orange | `#ff6b35` |
+| Primary Black  | `#1a1a1a` |
+| White          | `#ffffff` |
+
+### Design Philosophy
+
+The UI uses a **minimalist geometric style** with strong contrast to represent stability, resilience, and innovation in digital risk management.
+
+---
+
+# Contact
+
+Institute of Digital Risk
+
+Email: [hello@digitalrisk.io](mailto:hello@digitalrisk.io)
+
+---
+
+# License
+
+© 2025 Institute of Digital Risk. All rights reserved.
+
+k much more impressive to recruiters.** 🚀
