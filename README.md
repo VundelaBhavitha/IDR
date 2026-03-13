@@ -103,7 +103,7 @@ The IDR logo features a minimalist isometric cube representing:
 
 ## Deployment
 
-### Deploy to Vercel (Recommended)
+### Deploy to Vercel 
 
 The project is configured for automatic deployment to Vercel:
 
@@ -111,17 +111,6 @@ The project is configured for automatic deployment to Vercel:
    - Push changes to the `main` branch
    - Vercel automatically builds and deploys
    - View deployment status in GitHub checks
-
-2. **Via Vercel CLI**
-   ```bash
-   npm i -g vercel    # Install Vercel CLI
-   vercel login       # Login to your Vercel account
-   vercel             # Deploy preview
-   vercel --prod      # Deploy to production
-   ```
-
-3. **Via v0 Editor**
-   - Click the "Publish" button in v0 (fastest option)
 
 ### Environment
 - **Project ID**: `prj_UcS9BDnSgBGpnZllwZ8crJy7VGMu`
@@ -178,6 +167,4 @@ For contributions, partnership inquiries, or feature requests, please contact us
 - Website: [digitalrisk.io](https://digitalrisk.io)
 
 ---
-
-Built with Next.js and deployed on Vercel. Last updated: March 2025
 
