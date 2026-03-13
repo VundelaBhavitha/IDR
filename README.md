@@ -159,5 +159,3 @@ Email: [hello@digitalrisk.io](mailto:hello@digitalrisk.io)
 # License
 
 © 2025 Institute of Digital Risk. All rights reserved.
-
-k much more impressive to recruiters.** 🚀
